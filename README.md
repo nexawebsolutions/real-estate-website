@@ -27,7 +27,7 @@ Dynamic Listings: Every property page is generated from a single JetEngine templ
 
 Smart Search UI: A sidebar-integrated filtering system that allows users to drill down by District (Chennai, Chengalpattu, etc.), Property Type, and Price Range simultaneously.
 
-Automated Syncing: Custom logic to ensure that 11,000+ posts remain searchable even when using complex ACF date formats (e.g., auction_date).
+Automated Syncing: Custom logic to ensure that 11,000+ posts remain searchable even when using complex ACF date formats.
 
 Agent Relations: Properties are dynamically linked to specific Agents, displaying their contact info and WhatsApp triggers directly on the listing.
 
